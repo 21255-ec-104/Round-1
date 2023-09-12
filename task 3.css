@@ -48,7 +48,9 @@
 	font-size:25px;
 }
 .i{
-    background-image:url('img/img4.jpg');
+    background-image:url('img/img17.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
 	height:100%;
 	width:100%;
 }
@@ -97,7 +99,9 @@
 	padding-bottom:30px;
 }
 .u{
-	background-image:url('img/img11.jpg');
+	background-image:url('img/img19.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
 	height:100%;
 	width:100%;
 }
